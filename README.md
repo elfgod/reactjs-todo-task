@@ -1,7 +1,13 @@
-# Getting Started with Create React App
+# React To Do Task Project
+### Let's start!
 
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+// install ui library
+npm install semantic-ui-react semantic-ui-css  
 
+// Add the import in the index.js
+import 'semantic-ui-css/semantic.min.css';
+
+// 
 ## Available Scripts
 
 In the project directory, you can run:
